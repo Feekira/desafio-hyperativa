@@ -1,0 +1,17 @@
+2023-11-17 01:11:55,660 | INFO | Request all cards list   200
+2023-11-17 01:21:33,472 | INFO | Request all cards list   -   200
+2023-11-17 01:21:55,499 | INFO | Request a card not found   -    404
+2023-11-17 01:22:06,216 | INFO | Request a card not found   -    404
+2023-11-17 01:22:34,678 | INFO | Request a card 200
+2023-11-17 01:23:39,861 | INFO | Request all cards list   -   200
+2023-11-17 01:25:54,505 | WARNING | Request create a card not sucess   -   404
+2023-11-17 01:26:05,408 | INFO | Request create a card   -   200
+2023-11-17 01:26:25,502 | INFO | Request a card not found   -    404
+2023-11-17 01:26:52,733 | INFO | Request all cards list   -   200
+2023-11-17 01:27:51,353 | INFO | Request all cards list   -   200
+2023-11-17 01:28:09,665 | INFO | Request create a card   -   200
+2023-11-17 01:28:14,666 | WARNING | Request create a card not sucess   -   404
+2023-11-17 01:28:33,839 | INFO | Request all cards list   -   200
+2023-11-17 01:28:40,874 | INFO | Request a card 200
+2023-11-17 01:29:21,111 | INFO | Request Uploaded file   -   200
+2023-11-17 01:29:26,043 | INFO | Request all cards list   -   200
